@@ -126,89 +126,90 @@
 
 \newtranslation{Variance}{Varianza}
 \newtranslation{Standard deviation}{Desviación estándar}
-\newtranslation{Covariance}{Covariance}
-\newtranslation{Correlation}{Correlation}
-\newtranslation{Conditional variance}{Conditional variance}
+\newtranslation{Covariance}{Covarianza}
+\newtranslation{Correlation}{Correlación}
+\newtranslation{Conditional variance}{Varianza condiconal}
 
-\newtranslation{Inequalities}{Inequalities}
-\newtranslation{convex}{convex}
+\newtranslation{Inequalities}{Desigualdades}
+\newtranslation{convex}{convexo}
 
-\newtranslation{Distribution Relationships}{Distribution Relationships}
-\newtranslation{far from 0 and 1}{far from 0 and 1}
-\newtranslation{Memoryless property}{Memoryless property}
-\newtranslation{Upper quantile of}{Upper quantile of}
+\newtranslation{Distribution Relationships}{Relaciones de Distribución}
+\newtranslation{far from 0 and 1}{lejos de 0 y 1}
+\newtranslation{Memoryless property}{Propiedad sin memoria}
+\newtranslation{Upper quantile of}{El cuantil superior de}
 
 \newtranslation{Probability and Moment Generating Functions}{%
-  Probability and Moment Generating Functions}
+  Fuciones Generadoras de Probabilidad y Momentos}
 
-\newtranslation{Multivariate Distributions}{Multivariate Distributions} 
-\newtranslation{Standard Bivariate Normal}{Standard Bivariate Normal}
-\newtranslation{Joint density}{Joint density}
-\newtranslation{Conditionals}{Conditionals}
-\newtranslation{Bivariate Normal}{Bivariate Normal}
-\newtranslation{Conditional mean and variance}{Conditional mean and variance}
-\newtranslation{Covariance Matrix}{Covariance matrix}
-\newtranslation{Precision Matrix}{Precision matrix}
+\newtranslation{Multivariate Distributions}{Distribuciones Multivariadas} 
+\newtranslation{Standard Bivariate Normal}{Normla Estándar Bivariada}
+\newtranslation{Joint density}{Densidad conjunta}
+\newtranslation{Conditionals}{Condicionales}
+\newtranslation{Bivariate Normal}{Normal Bivariada}
+\newtranslation{Conditional mean and variance}{Promedio y varianza condicional}
+\newtranslation{Covariance Matrix}{Matriz de covarianza}
+\newtranslation{Precision Matrix}{Matriz de precisión}
 
-\newtranslation{Convergence}{Convergence}
+\newtranslation{Convergence}{Convergencia}
 \newtranslation{Convergence Introduction}{%
-  Let $\{X_1,X_2,\ldots\}$ be a sequence of \rv's and let $X$ be another \rv.
-  Let $F_n$ denote the \cdf of $X_n$ and let $F$ denote the \cdf of $X$.}
-\newtranslation{Types of Convergence}{Types of convergence}
-\newtranslation{In distribution}{In distribution (weakly, in law)}
-\newtranslation{In probability}{In probability}
-\newtranslation{Almost surely}{Almost surely (strongly)}
-\newtranslation{In quadratic mean}{In quadratic mean ($L_2$)}
-\newtranslation{Relationships}{Relationships}
-\newtranslation{Slutzky's Theorem}{\textsc{Slutzky's Theorem}}
-\newtranslation{In general}{In general}
-\newtranslation{Law of Large Numbers}{Law of Large Numbers (LLN)}
-\newtranslation{WLLN}{Weak (WLLN)}
-\newtranslation{SLLN}{Strong (SLLN)}
+  Sea $\{X_1,X_2,\ldots\}$ una secuencia de \rv's y sea $X$ otra \rv.
+  Sea $F_n$ la representación del \cdf de $X_n$ y sea $F$ la representación
+  del \cdf de $X$.}
+\newtranslation{Types of Convergence}{Tipo de convergencia}
+\newtranslation{In distribution}{En distribución (débilmente, en la ley)}
+\newtranslation{In probability}{En probabilidad}
+\newtranslation{Almost surely}{Casi asegurada (fuertemente)}
+\newtranslation{In quadratic mean}{En promedio cuadrático ($L_2$)}
+\newtranslation{Relationships}{Relaciones}
+\newtranslation{Slutzky's Theorem}{\textsc{Teorema de Slutzky}}
+\newtranslation{In general}{En general}
+\newtranslation{Law of Large Numbers}{Ley de los Números Grandes (LLN)}
+\newtranslation{WLLN}{Débil (WLLN)}
+\newtranslation{SLLN}{Fuerte (SLLN)}
 \newtranslation{LLN Introduction}{%
-  Let $\{X_1,\ldots,X_n\}$ be a sequence of \iid \rv's, $\E{X_1}=\mu$.}
-\newtranslation{Central Limit Theorem}{Central Limit Theorem (CLT)}
+  Sea $\{X_1,\ldots,X_n\}$ una secuencia de \iid \rv's, $\E{X_1}=\mu$.}
+\newtranslation{Central Limit Theorem}{Teorma del Límite Central (CLT)}
 \newtranslation{CLT Introduction}{%
-  Let $\{X_1,\ldots,X_n\}$ be a sequence of \iid \rv's, $\E{X_1}=\mu$, and 
+  Sea $\{X_1,\ldots,X_n\}$ una secuencia de \iid \rv's, $\E{X_1}=\mu$, y 
   $\V{X_1} = \sigma^2$.}
-\newtranslation{CLT notations}{CLT notations}
-\newtranslation{Continuity correction}{Continuity correction}
-\newtranslation{Delta method}{Delta method}
+\newtranslation{CLT notations}{Notaciones CLT}
+\newtranslation{Continuity correction}{Corrección de continuidad}
+\newtranslation{Delta method}{Método delta}
 
-\newtranslation{Statistical Inference}{Statistical Inference}
+\newtranslation{Statistical Inference}{Inferencia Estadística}
 \newtranslation{Statistical Inference Introduction}{%
-  Let $X_1,\cdots,X_n \distiid F$ if not otherwise noted.}
-\newtranslation{Point Estimation}{Point Estimation}
-\newtranslation{Point estimator}{Point estimator $\that_n$ of $\theta$ is a \rv}
-\newtranslation{Consistency}{Consistency}
-\newtranslation{Sampling distribution}{Sampling distribution}
-\newtranslation{Standard error}{Standard error}
-\newtranslation{Mean squared error}{Mean squared error}
-\newtranslation{is consistent}{is consistent}
-\newtranslation{Asymptotic normality}{Asymptotic normality}
+  Sea $X_1,\cdots,X_n \distiid F$ a menos que se indique lo contrario.}
+\newtranslation{Point Estimation}{Estimación Puntual}
+\newtranslation{Point estimator}{Estimador puntual $\that_n$ de $\theta$ es una \rv}
+\newtranslation{Consistency}{Consistencia}
+\newtranslation{Sampling distribution}{Distribución de la muestra}
+\newtranslation{Standard error}{Error estándar}
+\newtranslation{Mean squared error}{Error promedio al cuadrado}
+\newtranslation{is consistent}{es consistente}
+\newtranslation{Asymptotic normality}{Normalidad asintótica}
 \newtranslation{Slutzky Note}{%
-  \translate{Slutzky's Theorem} often lets us replace $\se(\that_n)$ by some
-  (weakly) consistent estimator $\shat_n$.}
+  \translate{Teorema de Slutzky} a menudo podemos reemplazar$\se(\that_n)$ 
+  por otro estimador (débilmente) consistente $\shat_n$.}
 \newtranslation{Normal-based Confidence Interval}{%
-  Normal-based Confidence Interval}
-\newtranslation{Empirical distribution}{Empirical distribution}
+  Intervalo de Confianza basado en la Normal}
+\newtranslation{Empirical distribution}{Distribución empírica}
 \newtranslation{Empirical Distribution Function}{%
-  Empirical Distribution Function (ECDF)}
-\newtranslation{for any fixed x}{for any fixed $x$}
+  Función de Distribución Empírica (ECDF)}
+\newtranslation{for any fixed x}{para cualquier $x$ fijo}
 \newtranslation{Dvoretzky-Kiefer-Wolfowitz inequality}{%
-  \textsc{Dvoretzky-Kiefer-Wolfowitz} (DKW) inequality}
+  Desigualdad \textsc{Dvoretzky-Kiefer-Wolfowitz} (DKW)}
 \newtranslation{Nonparametric confidence band}{%
-  Nonparametric $1-\alpha$ confidence band for $F$}
-\newtranslation{Statistical Functionals}{Statistical Functionals}
-\newtranslation{Statistical functional}{Statistical functional}
+  Banda de cofianza $1-\alpha$ para $F$}
+\newtranslation{Statistical Functionals}{Funcionales Estadísticas}
+\newtranslation{Statistical functional}{Funcional estadística}
 \newtranslation{Plug-in estimator of theta}{%
-  Plug-in estimator of $\theta = (F)$}
-\newtranslation{Linear functional}{Linear functional}
+  Estimador designado de $\theta = (F)$}
+\newtranslation{Linear functional}{Funcional lineal}
 \newtranslation{Plug-in estimator for linear functional}{%
-  Plug-in estimator for linear functional}
-\newtranslation{Often}{Often}
-\newtranslation{quantile}{quantile}
-
+  Estimador designado para la funcional lineal}
+\newtranslation{Often}{A menudo}
+\newtranslation{quantile}{cuantil}
+TODO
 \newtranslation{Parametric Inference}{Parametric Inference}
 \newtranslation{Parametric Inference Introduction}{%
   Let $\mathfrak{F} = \bigl\{ f(x;\theta) : \theta\in\Theta \bigr\}$ be a
